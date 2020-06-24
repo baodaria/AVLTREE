@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\bin\Debug\netcoreapp3.1\AVLTree.exe
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\bin\Debug\netcoreapp3.1\AVLTree.deps.json
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\bin\Debug\netcoreapp3.1\AVLTree.runtimeconfig.json
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\bin\Debug\netcoreapp3.1\AVLTree.runtimeconfig.dev.json
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\bin\Debug\netcoreapp3.1\AVLTree.dll
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\bin\Debug\netcoreapp3.1\AVLTree.pdb
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\obj\Debug\netcoreapp3.1\AVLTree.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\obj\Debug\netcoreapp3.1\AVLTree.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\obj\Debug\netcoreapp3.1\AVLTree.AssemblyInfo.cs
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\obj\Debug\netcoreapp3.1\AVLTree.dll
+C:\Users\Home\source\repos\AVLTrees\AVLTrees\obj\Debug\netcoreapp3.1\AVLTree.pdb
